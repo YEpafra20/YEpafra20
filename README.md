@@ -25,6 +25,12 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yepafra20&show_icons=true&theme=merko)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yepafra20&layout=compact)
 
+## GSSOC(24) Badges 🪶
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+ </a>
+</div>
+
 <h1 >Languages and Tools 💻</h1>
 
 ![C Programming](https://img.shields.io/badge/Programming-%23E34F26.svg?style=for-the-badge&logo=C&logoColor=white)
