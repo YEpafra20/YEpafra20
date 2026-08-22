@@ -12,9 +12,9 @@
 ## Core Competencies
 👨🏻‍💻 **About Me** :nerd_face: <img  src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" min-width="300px" max-width="300px" width="350px" align="right"/>
 
-- **Helo @everyone, This side *Yeddula Epafra* Currently in final year of Bachelors in Technology, India.**
+- **Helo @everyone,** This side Yeddula Epafra graduated in Electronics and Communication Engineering
 - **🔭 I'm a Front End Developer**
-- **Languages:** Machine Learning, C Programing, HTML, CSS, JavaScript
+- **Languages:** Python, Data Analytics, and Web development
 - **👨‍💻 All of my projects are available at <a href="https://github.com/YEpafra20">GitHub</a>**
 - 📫 How to reach me **yepafra1@gmail.com**
 
