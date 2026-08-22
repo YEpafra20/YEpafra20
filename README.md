@@ -1,5 +1,4 @@
-![Banner](https://raw.githubusercontent.com/<YEpafra20>/<YEpafra20>/main/bannergithub.jpeg)
-
+<p align="center"> <img width="800" height="199" alt="bannergithub" src="https://github.com/user-attachments/assets/f47559ea-2620-4829-87fa-79aaeb5353e4" /> </p>
 <h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/epafra-yeddula-18b399240/">Yeddula Epafra</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/></h1>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />              
 <p align="center">
