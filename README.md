@@ -2,7 +2,7 @@
 <h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/epafra-yeddula-18b399240/">Yeddula Epafra</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/></h1>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />              
 <p align="center">
-  <a href="http://sanjaykv.com/](https://ashy-water-0e4c6fa00.5.azurestaticapps.net/">Portfolio</a> -
+  <a href="https://yepafra20.github.io/Webpage100/">Portfolio</a> -
   <a href="https://www.linkedin.com/in/epafra-yeddula-18b399240/">LinkedIn</a> - 
   <a href="https://x.com/YeddulaEpafra/Yeddula%20Epafra">Twitter</a> -
   <a href="https://recodehive.com/">Website</a> -
